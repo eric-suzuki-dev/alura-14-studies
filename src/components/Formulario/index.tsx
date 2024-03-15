@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Botao from '../Botao';
 import style from './Formulario.module.scss';
@@ -34,7 +33,7 @@ class Formulario extends React.Component {
           />
         </div>
         <Botao>
-          Banana
+          Adicionar
         </Botao>
       </form>
     )
